@@ -88,7 +88,7 @@ function App() {
 
     return (
         <div className="App" style={styles.app}>
-            <img src={pwIcon} alt="image not found" style={styles.pwIcon} />
+            <img src={pwIcon} alt="not found" style={styles.pwIcon} />
             <h1 style={styles.h1}>Sathira Williams</h1>
             <h2 style={styles.h2}>Software Engineering Student at YorkU</h2>
             <SocialLinks />
