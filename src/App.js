@@ -64,7 +64,7 @@ const SocialLinks = () => (
         <a href="https://www.linkedin.com/in/pwsathira/" target="_blank" rel="noopener noreferrer">
             <img src={linkedinIcon} alt="LinkedIn" style={styles.socialIcon} />
         </a>
-        <a href="https://drive.google.com/file/d/1-s7S1USwAtcf3stlogeevY3SblK-gI3L/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+        <a href="https://drive.google.com/file/d/14QIc6EfxU-ntA19D_AWqOSaBWXKiS757/view?usp=sharing" target="_blank" rel="noopener noreferrer">
             <img src={resumeIcon} alt="Resume" style={styles.socialIcon} />
         </a>
     </div>
